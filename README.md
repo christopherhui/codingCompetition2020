@@ -8,8 +8,6 @@
 ## Group members and email
  - Christopher Hui christophergkhui@gmail.com
  - Brooke Dai brookeydai@gmail.com
- -
- -
 
 Welcome to CSSS's first online coding competition!
 
