@@ -1,5 +1,7 @@
 # codingCompetition2020
 
+![image](https://user-images.githubusercontent.com/13712774/115802008-e8ba2c80-a392-11eb-89bd-cb1808b1fd72.png)
+
 ## Group name
  - AAAAAAAAAAAAAAAAA
 
